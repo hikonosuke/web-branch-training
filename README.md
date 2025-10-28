@@ -12,4 +12,4 @@ GitHub の **Fork → Branch → Pull Request** を体験する教材です。
    ```bash
    git clone https://github.com/<あなたのユーザー名>/web-branch-training.git
    cd web-branch-training
-   git remote add upstream https://github.com/<先生のユーザー名>/web-branch-training.git
+   git remote add upstream https://github.com/hikonosuke/web-branch-training.git
